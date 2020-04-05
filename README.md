@@ -2,7 +2,7 @@
 
 ### 介绍
 
-- **本项目源于**：*https://github.com/zhaoky/flqin*。向作者表示深深的敬意。
+- **本项目源于**：*https://github.com/zhaoky/flqin*  向作者表示深深的敬意。
 
 ### 线上预览
 
