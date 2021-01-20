@@ -6,7 +6,7 @@
 
 ### 线上预览
 
-> http://116.62.25.133:8080/ammi3/
+> https://aimezhao.online/about/resume.html
 
 ### 项目截图
 
